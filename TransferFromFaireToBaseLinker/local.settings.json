@@ -3,7 +3,7 @@
     "Values": {
         "AzureWebJobsStorage": "UseDevelopmentStorage=true",
         "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-        "FaireAPIUrl": "https://www.faire-stage.com/api/v1",
+        "FaireAPIUrl": "https://www.faire-stage.com/api/v1/",
         "X-FAIRE-ACCESS-TOKEN": "test",
         "BaseLinkerAPIUrl": "https://api.baselinker.com/connector.php",
         "X-BLToken": "test"
